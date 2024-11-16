@@ -2,6 +2,7 @@
 
 A new Flutter project where accounting is made easy
 
-# Getting Started
+# Hey Team
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Go to "lib\pages\add_transaction_m\add_transaction_m_model.dart" on line 291
+
