@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "367937067657",
+    "firebase_url": "https://user-new-ptspl8-default-rtdb.firebaseio.com",
+    "project_id": "user-new-ptspl8",
+    "storage_bucket": "user-new-ptspl8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367937067657:android:1fe5765f56250712278458",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJqhxmy1tJWvYlGNdOPzlQJFNLb-dnKGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
