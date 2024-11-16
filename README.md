@@ -1,6 +1,6 @@
 # userNew
 
-A new Flutter project where accounting is made easy by making this 
+A new Flutter project where accounting is made easy
 
 # Getting Started
 
